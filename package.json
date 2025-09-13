@@ -1,0 +1,19 @@
+{
+  "name": "test_github_package",
+  "version": "1.0.0",
+  "description": "Test Github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patinan/test_github_package.git"
+  },
+  "author": "patinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patinan/test_github_package/issues"
+  },
+  "homepage": "https://github.com/patinan/test_github_package#readme"
+}
