@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/patinan/test_github_package/issues"
   },
-  "homepage": "https://github.com/patinan/test_github_package#readme"
+  "homepage": "https://github.com/patinan/test_github_package#readme",
+  "publishConfig": {
+  "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+}
 }
